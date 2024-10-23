@@ -22,4 +22,5 @@ I also conduct paid mock-interviews for middle and senoir C++ developers.
 - [Telegram](http://t.me/eproydakov) 
 
 **Tags:** #c++, #backend, #compiler, #consulting, #mock-interview
+
 **Тэги:** #c++, #бэкэнд, #компиляторы, #консалтинг, #мок-интервью
