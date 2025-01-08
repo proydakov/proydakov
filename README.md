@@ -15,6 +15,8 @@ I also conduct paid mock-interviews for middle and senoir C++ developers.
 
 **Tags:** #c++, #backend, #compiler, #consulting, #mock-interview
 
+- [Telegram](http://t.me/eproydakov)
+
 Разработчик программного обеспечения с 12+ годами опыта в профессиональной индустриальной разработке. Окончил МГТУ им. Н.Э.Баумана.
 Работал в шикоро известных компаниях: Рамбрел, Техцентр Дойче Банка.
 
@@ -28,5 +30,3 @@ I also conduct paid mock-interviews for middle and senoir C++ developers.
 Помогаю найти области для профессионального роста и подготовиться к собеседованию.
 
 **Тэги:** #c++, #бэкэнд, #компиляторы, #консалтинг, #мок-интервью
-
-- [Telegram](http://t.me/eproydakov)
