@@ -1,7 +1,7 @@
 ***Я есть Пройдаков (EN: I'm Proydakov)***
 
-Software developer with 12+ years of professional experience in the industry. Graduaded from the BMSTU.
-Worked in well-known companies: Rambler, Deutsche Bank.
+Software developer and TechLead with 12+ years of professional experience in the industry.
+Graduaded from the BMSTU. Worked in well-known companies: Rambler, Deutsche Bank.
 
 Developed mostly everything: autonomous robotics, high-loaded online advertising systems,
 high-frequency market maker for FX, DSL compilers and language runtimes.
@@ -17,8 +17,8 @@ I also conduct paid mock-interviews for middle and senoir C++ developers.
 
 - [Telegram](http://t.me/eproydakov)
 
-Разработчик программного обеспечения с 12+ годами опыта в профессиональной индустриальной разработке. Окончил МГТУ им. Н.Э.Баумана.
-Работал в шикоро известных компаниях: Рамблер, Техцентр Дойче Банка.
+Разработчик программного обеспечения и руководитель группы с 12+ годами опыта в профессиональной индустриальной разработке.
+Окончил МГТУ им. Н.Э.Баумана. Работал в шикоро известных компаниях: Рамблер, Техцентр Дойче Банка.
 
 Создавал программное обеспечение в разных сферах: автономная робототехника, высоко-нагруженные системы онлайн рекламны,
 высоко-частотный торговый движок для валютного рынка, доменно-специфичный компилятор и среду исполнения языка.
