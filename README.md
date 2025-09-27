@@ -16,6 +16,7 @@ I also conduct paid mock-interviews for middle and senoir C++ developers.
 **Tags:** #c++, #backend, #compiler, #consulting, #mock-interview
 
 - [Telegram](http://t.me/eproydakov)
+- [Habrhabr](https://habr.com/ru/users/proydakov)
 
 Разработчик программного обеспечения и руководитель группы с 12+ годами опыта в профессиональной индустриальной разработке.
 Окончил МГТУ им. Н.Э.Баумана. Работал в шикоро известных компаниях: Рамблер, Техцентр Дойче Банка.
