@@ -5,7 +5,7 @@ Software developer and TechLead with 12+ years of professional experience in the
 Graduaded from the BMSTU. Worked in well-known companies: Rambler, Deutsche Bank.
 
 Developed mostly everything: autonomous robotics, high-loaded online advertising systems,
-high-frequency market maker for FX, DSL compilers and language runtimes. Ahh and gamedev.
+high-frequency market maker for FX, DSL compilers and language runtimes. Ahh and two years in gamedev.
 
 The main areas of my expertise are: processing systems and cpu-bound computing.
 
@@ -24,7 +24,7 @@ I also conduct paid mock-interviews for middle and senoir C++ developers.
 
 Создавал программное обеспечение в разных сферах: автономная робототехника,
 высоко-нагруженные системы онлайн рекламны, алгоритмический маркетмейкер для валютного рынка,
-компилятор и среду исполнения для доменно-специфичного языка. Ахх и в геймдеве пару лет.
+компилятор и среду исполнения для доменно-специфичного языка. Ахх и пару лет в геймдеве поработал.
 
 Вы можете заказать у меня консалтинг для своего проекта на возмездной основе.
 Ключевые области: производительность, стабильность, латентность.
